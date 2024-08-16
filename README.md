@@ -7,12 +7,10 @@
 ## 𝐂𝐮𝐫𝐢𝐨𝐬𝐢𝐝𝐚𝐝𝐞:
 𝐅𝐨𝐫𝐞𝐧𝐬𝐢𝐜 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 & 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭𝐢𝐧𝐠
 
-[![OS](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]
-[![ferramentas](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]
-[![Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)]
-[![programas Linguas](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
-[![programas Linguas](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+![OS](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![ferramentas](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![programas Linguas](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![programas Linguas](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
+##
 ![Gabithun GitHub stats](https://github-readme-stats.vercel.app/api?username=gabithun&show_icons=true&theme=transparent)
 
