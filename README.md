@@ -1,4 +1,5 @@
-## 👋 Hi, I’m Gabriel 🫡
+## ![github-header-image (2)](https://github.com/user-attachments/assets/bb66cb3c-52e1-4a91-819b-313681866e54)
+
 - 🤖I'm interested in 
  𝐡𝐚𝐜𝐤𝐢𝐧𝐠 .
  - 📖 I'm currently learning: 𝐡𝐚𝐜𝐤𝐢𝐧𝐠 .
@@ -13,4 +14,3 @@
 
 ##
 ![Gabithun GitHub stats](https://github-readme-stats.vercel.app/api?username=gabithun&show_icons=true&theme=transparent)
-
